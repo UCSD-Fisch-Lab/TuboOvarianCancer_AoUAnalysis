@@ -1,6 +1,6 @@
 # TuboOvarianCancer_AoUAnalysis
 
-> Analysis of All of Us Controlled Tier Dataset v8 pertaining to our manuscript on oncologic histories in tubo-ovarian cancer
+> Analysis of All of Us Controlled Tier Dataset v8 within the All of Us Researcher Workbench pertaining to our manuscript on oncologic histories in tubo-ovarian cancer
 
 Script files (in chronological order):
 
