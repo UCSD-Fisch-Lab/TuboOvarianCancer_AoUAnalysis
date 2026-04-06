@@ -4,8 +4,6 @@ import pandas as pd
 import os
 from google.cloud import bigquery
 
-# Initialize BigQuery client
-client = bigquery.Client(project="highgradeserouscarcinoma")
 # Importing sample metadata
 ## First, cases
 
